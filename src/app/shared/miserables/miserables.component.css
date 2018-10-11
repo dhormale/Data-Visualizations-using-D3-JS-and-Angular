@@ -1,0 +1,15 @@
+.d3-miserables {
+  width: 100%;
+  height: 400px;
+}
+
+.links line {
+  stroke: orangered;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 5px;
+}
+
